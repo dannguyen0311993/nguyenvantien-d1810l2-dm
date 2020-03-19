@@ -1,0 +1,79 @@
+Version: 1.1.13
+	Fixed:	
+		- Update: Description
+
+Version: 1.1.12
+	Fixed:	
+		- Update: Screenshot
+		- Fixed: Keyword Navigation
+
+Version: 1.1.11
+	Fixed:	
+		- Update: ReadMe file
+		- Update: styles.css
+		- Update: responsive.css
+
+Version: 1.1.10
+	- Update: ReadMe file
+
+Version: 1.1.9
+	Fixed:	
+		- ostende_about_add_menu_items function 
+		- Default logo
+		- Keyboard navigation usability
+	Removed:
+		- Update forms in backend
+
+Version: 1.1.7
+	Fixed:	
+		- .pot file
+		- theme_download_url
+
+Version: 1.1.6
+	Added:
+		- ReadMe File
+		- Skip Link
+	Fixed:	
+		- wp_body_open hook
+		- /screenshot removed
+		- Footer message
+		- Removed fallbacks for old WordPress versions
+		- Transaltion Finctions
+		- Pingbacks turned off
+
+Version: 1.1.5
+	Removed:
+		- Theme activation field
+
+Version: 1.1.2
+	Fixed:
+		- Compatibility with Elementor (stretch row width)
+		- Update JS scripts
+		- Button image link
+
+Version: 1.1.1
+	Added:
+		- WP GDPR Compliance plugin
+		- Alert to Demo data installations
+	Changed:
+		- Default contact forms are updated to make them GDPR-compliant
+		- Demo data is updated
+	Fixed:
+		- Compatibility with PHP 7.3
+		- Plugins are updated to their latest versions
+		- IDs to show option in Events List shortcode
+		- Swiper slider nawigation
+		- Display past events
+		- Theme styles are improved
+		- TRX Addons plugin is updated
+		- Scripts libraries are updated
+	Removed:
+		- Support page, Video Tutorials page
+
+Version: 1.1
+	- Add Book a Place Pro plugin
+	- Add new Software page
+	- TRX Addons plugin update
+	* Minor CSS update
+
+Version: 1.0.0 (based on BaseKit v.1.0.42)

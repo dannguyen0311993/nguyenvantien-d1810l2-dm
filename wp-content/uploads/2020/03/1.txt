@@ -1,0 +1,4 @@
+width: 400px
+height: 530px
+float: left;
+margin-left:20px;
